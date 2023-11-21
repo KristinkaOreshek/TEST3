@@ -27,3 +27,5 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+.IDEA
+Zadanie 3.iml
